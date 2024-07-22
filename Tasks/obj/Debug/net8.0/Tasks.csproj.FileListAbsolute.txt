@@ -1,0 +1,14 @@
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\bin\Debug\net8.0\Tasks.exe
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\bin\Debug\net8.0\Tasks.deps.json
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\bin\Debug\net8.0\Tasks.runtimeconfig.json
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\bin\Debug\net8.0\Tasks.dll
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\bin\Debug\net8.0\Tasks.pdb
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfoInputs.cache
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfo.cs
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\Tasks.csproj.CoreCompileInputs.cache
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\Tasks.dll
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\refint\Tasks.dll
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\Tasks.pdb
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\ref\Tasks.dll
