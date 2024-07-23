@@ -121,3 +121,64 @@
 // Console.WriteLine(Task25.CountParagraphs("D:/Univercity/Расхождения/Введение в программирование/Code/Tasks/Resources/25/5/text.txt"));
 
 #endregion
+
+#region Task6
+
+// // 1.
+// int a1 = 5;
+// int b1 = 11;
+
+// Console.WriteLine($"a: {a1}, b: {b1}");
+
+// Task6.Swap(ref a1, ref b1);
+
+// Console.WriteLine($"a: {a1}, b: {b1}");
+
+// // 2.
+// int a2 = 6;
+// int b2 = 88;
+// int c2 = 14;
+
+// Console.WriteLine($"a: {a2}, b: {b2}, c: {c2}");
+
+// Task6.Swap(ref a2, ref c2);
+// Task6.Swap(ref b2, ref c2);
+
+// // 14, 6, 88
+// Console.WriteLine($"a: {a2}, b: {b2}, c: {c2}");
+
+// // 3.
+// int a3 = 3;
+// int b3 = 4;
+// int c3 = 5;
+
+// Console.WriteLine($"a: {a3}, b: {b3}, c: {c3}");
+
+// Task6.Swap(ref a3, ref c3);
+// Task6.Swap(ref a3, ref b3);
+
+// // 4, 5, 3
+// Console.WriteLine($"a: {a3}, b: {b3}, c: {c3}");
+
+// // 4.
+// float x4 = 2.5f;
+// float result4 = 3 * MathF.Pow(x4, 6) - 6 * MathF.Pow(x4, 2) + 2;
+
+// Console.WriteLine(result4);
+
+// // 5.
+// float x5 = 2.5f;
+// float result5 = 4 * MathF.Pow(x5 - 3, 6) - 7 * MathF.Pow(x5 - 3, 3) + 2;
+
+// Console.WriteLine(result5);
+
+// // 6. 
+// Console.WriteLine(Task6.WeirdPow1(2));
+// Console.WriteLine(MathF.Pow(2, 8));
+
+// // 7.
+
+// Console.WriteLine(Task6.WeirdPow2(2));
+// Console.WriteLine(MathF.Pow(2, 15));
+
+#endregion
