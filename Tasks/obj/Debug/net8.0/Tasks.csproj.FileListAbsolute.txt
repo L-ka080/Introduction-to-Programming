@@ -12,3 +12,4 @@ d:\Univercity\Расхождения\Введение в программиро�
 d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\Tasks.pdb
 d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
 d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\ref\Tasks.dll
+d:\Univercity\Расхождения\Введение в программирование\Code\Tasks\obj\Debug\net8.0\Tasks.sourcelink.json

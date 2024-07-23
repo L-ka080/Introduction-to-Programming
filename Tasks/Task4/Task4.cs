@@ -1,4 +1,4 @@
-public static class Task1
+public static class Task4
 {
     // 1.
     public static Dictionary<string, int> CalculateSquares(int a, int b)
