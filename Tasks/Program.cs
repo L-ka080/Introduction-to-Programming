@@ -182,3 +182,28 @@
 // Console.WriteLine(MathF.Pow(2, 15));
 
 #endregion
+
+#region Task10
+
+// // 1.
+// Console.WriteLine(Task10.CheckBoolStatement1(2, 3));
+
+// // 2.
+// Console.WriteLine(Task10.CheckBoolStatement2(1, 2, 3));
+
+// // 3.
+// Console.WriteLine(Task10.CheckBoolStatement3(12));
+
+// // 4.
+// Console.WriteLine(Task10.CheckBoolStatement4(5566));
+
+// // 5.
+// Console.WriteLine(Task10.CheckBoolStatement5(5665));
+
+// // 6.
+// Console.WriteLine(Task10.CheckBoolStatement6(7, 24, 25));
+
+// // 7.
+// Console.WriteLine(Task10.CheckBoolStatement7(7, 24, 25));
+
+#endregion
