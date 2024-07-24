@@ -233,3 +233,24 @@
 // Console.WriteLine(Task11.TextDescriptionOfNumber2(362));
 
 #endregion
+
+#region Task15
+// // 1.
+// for (int i = 2; i < 7; i++)
+// {
+//     Task15.PowerA3(i, out float B);
+//     Console.WriteLine($"{i}^3 = {B}");
+// }
+
+// // 2.
+// Console.WriteLine(Task15.SighX(15) + Task15.SighX(-5));
+
+// // 3.
+// Console.WriteLine(Task15.RingS(15, 12));
+
+// // 4.
+// Console.WriteLine(Task15.Quarter(12, -3));
+
+// // 5.
+// Console.WriteLine(Task15.Fact2(7));
+#endregion
