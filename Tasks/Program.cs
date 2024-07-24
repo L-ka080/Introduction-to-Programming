@@ -207,3 +207,29 @@
 // Console.WriteLine(Task10.CheckBoolStatement7(7, 24, 25));
 
 #endregion
+
+#region Task11
+
+// // 1.
+// Console.WriteLine(Task11.ConvertNumbers(11, 12));
+
+// // 2.
+// Console.WriteLine(Task11.SumOfGreatest(13, 14, 15));
+
+// // 3.
+// Vector2 a = new Vector2(0, 0);
+// Vector2 b = new Vector2(3, 5);
+// Vector2 c = new Vector2(1, 2);
+
+// Console.WriteLine(Task11.FindClosestPointToA(a, b, c));
+
+// // 4.
+// Console.WriteLine(Task11.FindPointCoordinateQuarter(new Vector2(-1, 2)));
+
+// // 5.
+// Console.WriteLine(Task11.TextDescriptionOfNumber1(12));
+
+// // 6.
+// Console.WriteLine(Task11.TextDescriptionOfNumber2(362));
+
+#endregion
